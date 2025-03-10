@@ -20,6 +20,19 @@ Este es un pequeño proyecto desarrollado en **JavaScript**, **HTML** y **CSS** 
 4. Continúa sorteando hasta que todos hayan sido elegidos.
 5. Si deseas comenzar de nuevo, simplemente refresca la página con F5 o el botón **Actualizar** de tu navegador.
 
+## 📷 Capturas de pantalla
+
+Aquí algunas imágenes del proyecto en acción:
+
+### ✅ Pantalla de inicio
+![Pantalla inicial](assets/PantallaInicial.png)
+
+### 🎯 Agregando amigos
+![Agregar amigos](assets/AgregarAmigos.png)
+
+### 🎲 Sorteo completado
+![Todos sorteados](assets/SorteoAmigos.png)
+
 ## 🖥️ Instalación y ejecución
 No es necesario instalar nada, simplemente abre el archivo `index.html` en el navegador de tu preferencia.
 
